@@ -1,0 +1,12 @@
+{
+  "name":"CropLambda",
+  "description": "lambda function for crop image",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "*",
+    "object-assign": "^4.1.0",
+    "gm": "^1.23.0",
+    "file-type": "^3.8.0"
+  }
+}
